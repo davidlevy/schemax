@@ -3,14 +3,20 @@ schemax
 
 SchemaX, a better Schema.org documentation
 
-(JSON format schemas)[http://schema.rdfs.org/all.json]
+[JSON format schemas](http://schema.rdfs.org/all.json)
 
 
 Dependencies
 ------------
 
-- (JSDuck)[https://github.com/senchalabs/jsduck]
+- [JSDuck](https://github.com/senchalabs/jsduck)
 - NodeJS
+
+
+
+Running Parser
+--------------
+`node parser.js`
 
 
 Running JSDuck
